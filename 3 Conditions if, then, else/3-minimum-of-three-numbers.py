@@ -6,4 +6,4 @@ if a < b and a < c:
 elif b < a and b < c:
     print(b)
 else:
-    print(c)
+    print(b)
