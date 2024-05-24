@@ -1,4 +1,6 @@
-git add .
-git init
-git commit -m"add new and file"
-git push
+a = input()
+b = input()
+if a>b:
+    print(b)
+else:
+    print(a)
